@@ -1,0 +1,3 @@
+/mnt/c/Users/user/Desktop/Algorithms/SET_5/A3i/cmake-build-debug/CMakeFiles/A3i.dir
+/mnt/c/Users/user/Desktop/Algorithms/SET_5/A3i/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/Desktop/Algorithms/SET_5/A3i/cmake-build-debug/CMakeFiles/rebuild_cache.dir

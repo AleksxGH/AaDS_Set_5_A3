@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/A3i.dir/main.cpp.o -o A3i 
